@@ -1,2 +1,2 @@
 #!/bin/bash
-$p1.sh | ls -l 
+$p1.sh | ls  
